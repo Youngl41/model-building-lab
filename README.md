@@ -7,7 +7,8 @@ model-building-lab is a Python module for structuring, simplifying and accelerat
 ### Dependencies
 - Python 3.5 or higher
 ### User Installation
-    pip install model-building-lab
+    pip install --index-url https://test.pypi.org/simple/ model-building-lab --upgrade
+    /*pip install model-building-lab*/
 
 ### Source code
     git clone https://github.com/YoungWheeLee/model-building-lab.git
