@@ -34,3 +34,8 @@ vignettes/*.pdf
 
 # Mac temporary files
 .DS_Store
+
+# Pip install
+build/
+dist/
+.egg-info
