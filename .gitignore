@@ -33,7 +33,7 @@ vignettes/*.pdf
 *.knit.md
 
 # Mac temporary files
-.DS_Store
+**/.DS_Store
 
 # Pip install
 build/
@@ -42,3 +42,7 @@ dist/
 
 # Project tasks
 Tasks.xlsx
+
+# Testing files
+**/test.py
+**/test*.py
