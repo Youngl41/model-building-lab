@@ -36,6 +36,9 @@ vignettes/*.pdf
 .DS_Store
 
 # Pip install
-build/
-dist/
-.egg-info
+/build/
+/dist/
+/*.egg-info
+
+# Project tasks
+Tasks.xlsx
