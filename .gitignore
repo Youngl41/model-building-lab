@@ -41,7 +41,7 @@ dist/
 **.egg-info
 
 # Project tasks
-Tasks.xlsx
+*Tasks.xlsx
 
 # Testing files
 **/test.py
