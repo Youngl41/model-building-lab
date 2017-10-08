@@ -46,3 +46,6 @@ dist/
 # Testing files
 **/test.py
 **/test*.py
+
+# Temporary files created by python
+**/.pyc

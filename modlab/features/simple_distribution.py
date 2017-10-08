@@ -8,6 +8,7 @@ Created on Fri Oct  6 17:44:55 2017
 
 import numpy as np
 from .base import BaseFeature
+
 from abc import ABCMeta, abstractmethod
 
 class BaseFeature(metaclass = ABCMeta):
