@@ -48,4 +48,4 @@ dist/
 **/test*.py
 
 # Temporary files created by python
-**/.pyc
+**/*.pyc
