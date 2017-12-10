@@ -6,9 +6,9 @@ model-building-lab is a Python module for structuring, simplifying and accelerat
 ## Installation
 ### Dependencies
 - Python 3.5 or higher
-- pyarrow: 
-	conda install -c conda-forge pyarrow
-	pip install pyarrow
+- pyarrow:
+	- conda install -c conda-forge pyarrow
+	- pip install pyarrow
 ### User Installation
     pip install --index-url https://test.pypi.org/simple/ model-building-lab --upgrade
     /*pip install model-building-lab*/
